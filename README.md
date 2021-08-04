@@ -1,3 +1,3 @@
 # Speech Recognition in Urdu
 
-Speech Recognition is an important component of Natural Languge Processing. It involves training a model on audio files and their respective transcriptions. We will combine few-shot learning and transfer learning to train a model on our small urdu dataset. For this we will fine tune the pretrained XLSR-Wav2Vec2 model available on HuggingFace. This model has been trained on powerful speech representations in more than 50 languages. After tuning, model will be tested on different dataset. The performance of our model is evaluated on basis of Word Error Rate (WER), loss and predictions made on test dataset.
+Speech Recognition is an important component of Natural Languge Processing. It involves training a model on audio files and their respective transcriptions.
